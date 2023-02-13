@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ios16-app-ui-design",
-    "slug": "ios16-app-ui-design",
+    "name": "ioslockscreen-app-ui-design",
+    "slug": "ioslockscreen-app-ui-design",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
